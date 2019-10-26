@@ -2,53 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1ec5388e-d245-4a07-99cb-d82d5a7afd00" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/python_programming.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson0.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson12.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson13.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson14.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson15.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson16.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson17.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson18.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson19.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson20.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson21.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson22.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson23.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson24.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson25.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson26.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson27.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson28.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson29.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson30.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson31.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson32.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson33.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson34.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson35.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson36.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson37.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson38.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson39.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson40.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson41.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson42.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson43.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson44.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson45.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson46.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_package/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_package/utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson41.py" beforeDir="false" afterPath="$PROJECT_DIR$/lesson41.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -105,7 +67,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson41.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson46.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -133,6 +95,7 @@
       <workItem from="1571788968442" duration="17787000" />
       <workItem from="1571877100536" duration="5132000" />
       <workItem from="1571979178498" duration="2447000" />
+      <workItem from="1572055937982" duration="6229000" />
     </task>
     <servers />
   </component>
@@ -144,7 +107,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -153,16 +118,6 @@
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/lesson0.py</url>
-          <line>3</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/lesson0.py</url>
-          <line>5</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/lesson12.py</url>
           <option name="timeStamp" value="4" />
@@ -186,6 +141,6 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/python_programming$go.coverage" NAME="go Coverage Results" MODIFIED="1571980503833" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python_programming$go.coverage" NAME="go Coverage Results" MODIFIED="1572081278603" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
